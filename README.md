@@ -4,8 +4,8 @@ Sean Velasco is an engineering student at the Faculty of Engineering, University
 
 Curious to see how software interacts with hardware, he developed an interest in embedded systems. He develops software for the new-generation STM embedded boards.
 
+He is currently developing free laboratory software for diagnostic testing and vaccination appointments.
+
 Get to know more about him and what he does over at [sean.ph](https://sean.ph).
 
-
-
-### **<a href="https://ko-fi.com/seanvelasco" target="_blank">Buy him coffee</a> and he will remember you forever.**
+### **[Buy him coffee](https://ko-fi.com/seanvelasco) and he will remember you forever.**
