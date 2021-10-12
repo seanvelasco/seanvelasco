@@ -7,6 +7,6 @@ Curious to see how software interacts with hardware, he developed an interest in
 Get to know more about him and what he does over at [sean.ph](https://sean.ph).
 
 
-<div">
+<div>
     <img src="ko-fi.svg" alt="Support Sean Velasco">
 </div>
