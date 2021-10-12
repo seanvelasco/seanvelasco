@@ -8,5 +8,5 @@ Get to know more about him and what he does over at [sean.ph](https://sean.ph).
 
 
 <div>
-    <img src="ko-fi.svg"  alt="Support Sean Velasco">
+    <img src="ko-fi.svg" width="400" height="400" alt="Support Sean Velasco">
 </div>
