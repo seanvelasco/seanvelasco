@@ -8,4 +8,4 @@ Get to know more about him and what he does over at [sean.ph](https://sean.ph).
 
 
 
-### **<a href="https://ko-fi.com/seanvelasco" target="_blank">Buy him coffee</a>and he will remember you forever.**
+### **<a href="https://ko-fi.com/seanvelasco" target="_blank">Buy him coffee</a> and he will remember you forever.**
