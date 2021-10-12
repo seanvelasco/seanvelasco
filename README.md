@@ -6,4 +6,6 @@ Curious to see how software interacts with hardware, he developed an interest in
 
 Get to know more about him and what he does over at [sean.ph](https://sean.ph).
 
-### **[Buy him coffee](https://ko-fi.com/seanvelasco) and he will remember you forever.**
+<a href="http://ko-fi.com/seanvelasco" target="_blank"Buy him coffee</a>
+
+### **and he will remember you forever.**
