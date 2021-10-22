@@ -1,11 +1,5 @@
 # hello, mabuhay!
 
-Sean Velasco is an engineering student at the Faculty of Engineering, University of Santo Tomas in Manila, Philippines.
-
-Curious to see how software interacts with hardware, he developed an interest in embedded systems. He develops software for the new-generation STM embedded boards.
-
-He is currently developing free laboratory software for diagnostic testing and vaccination appointments.
-
-Get to know more about him and what he does over at [sean.ph](https://sean.ph).
-
-### **[Buy him coffee](https://ko-fi.com/seanvelasco) and he will remember you forever.**
+- Sean is currently working on lab software for COVID-19 diagnostic and vaccination appointments Check its progress here - [c19.sean.ph](https://c19.sean.ph)
+- He is currently learning React and Redux.
+- **[Buy him coffee](https://ko-fi.com/seanvelasco) and he will remember you forever.**
