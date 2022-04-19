@@ -1,1 +1,1 @@
-# hardware 🤝 software
+[# hardware 🤝 software](https://seanvelasco.com)
