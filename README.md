@@ -1,1 +1,1 @@
-[# hardware 🤝 software](https://seanvelasco.com)
+### [building things that last](https://seanvelasco.com)
