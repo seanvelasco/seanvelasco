@@ -1,6 +1,0 @@
--   [x] Develop healh-tech software
--   [ ] Develop fintech software
--   [ ] Develop software used in space
--   [ ] Publish a game to Steam
--   [ ] Publish an iOS app to the App Store
--   [ ] Publish an Android app to the Play Store
